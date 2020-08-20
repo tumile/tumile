@@ -34,6 +34,6 @@ I'm a passionate engineer from Vietnam, going to school in the U.S. Connect with
 
 ---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=tumile&show_icons=true&hide_border=true&count_private=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=tumile&show_icons=true&hide_border=true&count_private=true&theme=radical" />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=tumile&layout=compact&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=tumile&layout=compact&theme=radical" />
