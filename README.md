@@ -1,16 +1,13 @@
-### Hi there, I'm Tuan 👋
+### Hey there 👋! Let's connect [<img width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">](https://www.linkedin.com/in/tuanle99) !
 
 ![](https://img.shields.io/badge/coverage-21y-brightgreen)
 ![](https://img.shields.io/badge/coffee-missing-orange?logo=coffeescript)
 ![](https://img.shields.io/badge/-hire%20me-red?logo=freecodecamp)
 
-I'm a passionate engineer from Vietnam, going to school in the U.S. Connect with me on Linked[<img width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">](https://www.linkedin.com/in/tuanle99) !
-
-- 👨‍💻 Currently contributing to deno, deno-redis
-- 🤔 Currently learning Rust 🦀
-- 🔭 Looking to collaborate on Java, JS, Go, Rust projects
-- 💡 2020 goals: Find a job and contribute more to open-source projects
-- 🤗 Fun fact: I love cats 🐱 and coffee ☕
+- 👨‍💻 Currently CS student @ MU
+- 🤔 Learning some tricks of the trade
+- 🔭 Looking to contribute to Java, JS, Go, Rust projects
+- 🤗 Love cats 🐱 and coffee ☕
 
 ### Languages and Tools:
 
